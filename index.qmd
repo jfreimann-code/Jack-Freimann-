@@ -1,19 +1,30 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Welcome!"
+format:
+  html:
+    theme: flatly
+    css: styles.css
 ---
 
-:::{#me}
+<div>
+Welcome to my personal website that I created by using Quarto in Rstudio. My name is Jack Freimann. I am a Sophomore at Macalester College pursuing a major in Economics and minors in Political Science and Statistics. Please take a look at this website if you are interested in learning more about some of my interests and past work. 
 
-## Goals
+::: {.columns}
+::: {.column width="30%"}
+![](Profile.jpeg)
+</div>
 
-## Education
+<div>
+During the year, I spend a lot of time playing soccer. For the school year I am a member of the Macalester Men's Soccer team.
 
-## Experience
+<div style="display: flex; justify-content: space-between;">
+  <img src="Soccer1.jpeg" width="25%">
+  <img src="Soccer2.jpeg" width="30%">
+</div>
 
-:::
-
-Thanks for checking out my web site!
+Some of my other interests include, fishing, traveling, the Denver Nuggets, playing the guitar, and spending time with family and friends. I hope you enjoy learning more about me!
+<div style="display: flex; justify-content: space-between;">
+  <img src="family.jpeg"style="height: 250px; width: auto;">
+  <img src="fishing.jpeg" style="height: 250px; width: auto;">
+  <img src="friend.jpeg"style="height: 250px; width: auto;">
+</div>
