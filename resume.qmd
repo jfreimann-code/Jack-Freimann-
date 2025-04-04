@@ -1,0 +1,99 @@
+---
+title: "Resume"
+---
+
+<style>
+.education-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0073b7;
+} 
+
+.school-name {
+  font-weight: bold;
+}
+
+.details {
+  font-size: 16px;
+  color: #555;
+}
+</style>
+
+<div>
+  <p class="education-title">Education</p>
+  <p class="school-name">Macalester College | <span class="details">St. Paul, MN</span></p>
+  <p class="details"><strong>Major:</strong> Economics</p>
+  <p class="details"><strong>Minor:</strong> Political Science and Statistics</p>
+  <p class="details">September 2023 - Present</p>
+</div>
+
+
+<style>
+.experience-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0073b7;
+} 
+
+.details {
+  font-size: 16px;
+  color: #555;
+}
+</style>
+
+<div>
+  <p class="experience-title">Experience</p>
+  <p class="details"><strong>Congruex | </strong> Boulder, CO</p>
+  <p class="details">Financial Analyst Intern</p>
+  <p class="details">May 2025 - August 2025</p>
+</div>
+
+  <p class="details"><strong>Ira Brenner & Associates, CPA. | </strong> Greenwood Village, CO</p>
+  <p class="details">Office Assistant</p>
+  <p class="details">May 2024 - December 2024</p>
+
+  <p class="details"><strong>Coerver Colorado | </strong> Denver, CO</p>
+  <p class="details">Head Coach</p>
+  <p class="details">May 2021 - August 2023</p>
+  
+  <style>
+.extracurriculars-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0073b7;
+} 
+
+.details {
+  font-size: 16px;
+  color: #555;
+}
+</style>
+
+<div>
+  <p class="extracurriculars-title">Extracurricular(s)</p>
+  <p class="details"><strong>Macalester Men's Soccer </strong> </p>
+  <ul class="details">
+  <li>CSC Academic All-District Honors (Fall 2024)</li>
+  <li>MIAC Academic All Conference (Fall 2024)</li>
+</ul>
+  
+</div>
+
+<style>
+.skills-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0073b7;
+} 
+
+.details {
+  font-size: 16px;
+  color: #555;
+}
+</style>
+
+<div>
+  <p class="skills-title">Skills</p>
+  <p class="details"><strong>Computer Skills: </strong>R/RStudio, Microsoft Office, Google Office </p>
+</div>
+
