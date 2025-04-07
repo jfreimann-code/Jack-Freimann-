@@ -1,9 +1,43 @@
 ---
 title: "Projects"
+listing:
+  contents: projects
+  sort: "title desc"
+  type: grid
+  categories: false
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+comments: false
 ---
 
-## Project 1
 
-## Project 2
 
-## Project 3
+# **How do States such as Minnesota Choose Which Environmental Policies to Fund?** {.toc-entry}
+
+*An exploration into the Minnesota Decision-Making Process*
+
+<iframe src="Final Poly-Sci Paper-3.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="Final Poly-Sci Paper-3.pdf">Download PDF</a>.
+</iframe>
+
+
+# **California’s Zero Emissions Vehicle Mandate** {.toc-entry}
+
+
+<iframe src="Final Econ Paper -2.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="Final Econ Paper -2.pdf">Download PDF</a>.
+</iframe>
+
+# **An analysis of Tesla** {.toc-entry}
+
+![](Tesla.jpeg)
+<iframe src="Tesla.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="Tesla.pdf">Download PDF</a>.
+</iframe>
+
+
