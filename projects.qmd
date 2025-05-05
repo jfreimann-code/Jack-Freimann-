@@ -6,38 +6,27 @@ listing:
   type: grid
   categories: false
   sort-ui: true
-  filter-ui: true
+  filter-ui: false
 page-layout: full
 title-block-banner: true
 comments: false
 ---
 
+## Projects
 
+### How do States such as Minnesota Choose Which Environmental Policies to Fund?
+Foundations of US Politics-Choice Research Project.
 
-# **How do States such as Minnesota Choose Which Environmental Policies to Fund?** {.toc-entry}
+[Explore more about the Minnesota decision-making process →](project1.qmd){target="_blank"}
 
-*An exploration into the Minnesota Decision-Making Process*
+### California’s Zero Emissions Vehicle Mandate
+Environmental Economics Final Paper.
 
-<iframe src="Final Poly-Sci Paper-3.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="Final Poly-Sci Paper-3.pdf">Download PDF</a>.
-</iframe>
+[Explore California ZEV Mandate→](project2.qmd){target="_blank"}
 
+### An Analysis of Tesla
+Financial Accounting Research Project.  
 
-# **California’s Zero Emissions Vehicle Mandate** {.toc-entry}
-
-
-<iframe src="Final Econ Paper -2.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="Final Econ Paper -2.pdf">Download PDF</a>.
-</iframe>
-
-# **An analysis of Tesla** {.toc-entry}
-
-![](Tesla.jpeg)
-<iframe src="Tesla.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="Tesla.pdf">Download PDF</a>.
-</iframe>
+[Explore Analysis of Tesla →](project3.qmd){target="_blank"}
 
 
