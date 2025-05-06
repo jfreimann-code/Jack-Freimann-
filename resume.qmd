@@ -94,6 +94,6 @@ title: "Resume"
 
 <div>
   <p class="skills-title">Skills</p>
-  <p class="details"><strong>Computer Skills: </strong>R/RStudio, Microsoft Office, Google Office </p>
+  <p class="details"><strong>Computer Skills: </strong>R/RStudio, Microsoft Office, Github, Google Office </p>
 </div>
 
