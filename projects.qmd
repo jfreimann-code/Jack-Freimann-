@@ -22,7 +22,7 @@ Foundations of US Politics-Choice Research Project.
 ### California’s Zero Emissions Vehicle Mandate
 Environmental Economics Final Paper.
 
-[Explore California ZEV Mandate→](project2.qmd){target="_blank"}
+[Explore California's ZEV Mandate→](project2.qmd){target="_blank"}
 
 ### An Analysis of Tesla
 Financial Accounting Research Project.  
