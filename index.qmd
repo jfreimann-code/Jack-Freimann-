@@ -5,7 +5,6 @@ format:
     theme: flatly
     css: styles.css
 ---
-
 <div>
 Welcome to my personal website that I created by using Quarto in Rstudio. My name is Jack Freimann. I am a Sophomore at Macalester College pursuing a major in Economics and minors in Political Science and Statistics. Please take a look at this website if you are interested in learning more about some of my interests and past work. 
 

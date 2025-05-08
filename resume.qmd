@@ -27,6 +27,11 @@ title: "Resume"
   <p class="details">September 2023 - Present</p>
 </div>
 
+ 
+  <p class="school-name">Northfield High School | <span class="details">Denver, CO</span></p>
+  <p class="details">Graduated with IB Diploma</p>
+  <p class="details">4.9 weighted GPA</p>
+
 
 <style>
 .experience-title {
