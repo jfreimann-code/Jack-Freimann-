@@ -17,7 +17,7 @@ comments: false
 ### How do States such as Minnesota Choose Which Environmental Policies to Fund?
 Foundations of US Politics-Choice Research Project.
 
-[Explore more about the Minnesota decision-making process →](project1.qmd){target="_blank"}
+[Explore the Minnesota Decision-Making Process →](project1.qmd){target="_blank"}
 
 ### California’s Zero Emissions Vehicle Mandate
 Environmental Economics Final Paper.
@@ -28,5 +28,10 @@ Environmental Economics Final Paper.
 Financial Accounting Research Project.  
 
 [Explore Analysis of Tesla →](project3.qmd){target="_blank"}
+
+### Time Related Factors in the Education System
+Ed Policy Literature Review.  
+
+[Explore its Impact on Student Performance →](project4.qmd){target="_blank"}
 
 
