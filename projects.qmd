@@ -1,40 +1,45 @@
 ---
-title: "Projects"
-listing:
-  contents: projects
-  sort: "title desc"
-  type: grid
-  categories: false
-  sort-ui: true
-  filter-ui: false
-page-layout: full
-title-block-banner: true
-comments: false
+format: html
 ---
 
-## Projects
+## Projects {.tabset}
 
-### How do States such as Minnesota Choose Which Environmental Policies to Fund?
+### Policy Research
+
+#### How do States such as Minnesota Choose Which Environmental Policies to Fund?
 Foundations of US Politics-Choice Research Project.
 
 [Explore the Minnesota Decision-Making Process →](project1.qmd){target="_blank"}
 
-### California’s Zero Emissions Vehicle Mandate
+
+#### California’s Zero Emissions Vehicle Mandate
 Environmental Economics Final Paper.
 
 [Explore California's ZEV Mandate→](project2.qmd){target="_blank"}
 
-### An Analysis of Tesla
-Financial Accounting Research Project.  
 
-[Explore Analysis of Tesla →](project3.qmd){target="_blank"}
-
-### Time Related Factors in the Education System
+#### Time Related Factors in the Education System
 Ed Policy Literature Review.  
 
 [Explore its Impact on Student Performance →](project4.qmd){target="_blank"}
 
-### Effect of Phenotypic Plant Growth Characteristic on Seed Yield in Soybeans
+
+---
+
+### Finance
+
+#### An Analysis of Tesla
+Financial Accounting Research Project.  
+
+[Explore Analysis of Tesla →](project3.qmd){target="_blank"}
+
+
+---
+
+### Statistics
+
+#### Effect of Phenotypic Plant Growth Characteristic on Seed Yield in Soybeans
 Stat 155 Final Project.  
 
 [Explore more on Soybeans →](project5.qmd){target="_blank"}
+
