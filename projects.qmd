@@ -34,4 +34,7 @@ Ed Policy Literature Review.
 
 [Explore its Impact on Student Performance →](project4.qmd){target="_blank"}
 
+### Effect of Phenotypic Plant Growth Characteristic on Seed Yield in Soybeans
+Stat 155 Final Project.  
 
+[Explore more on Soybeans →](project5.qmd){target="_blank"}

@@ -1,0 +1,11 @@
+---
+title: "Effect of Phenotypic Plant Growth Characteristic on Seed Yield in Soybeans"
+format: html
+editor: visual
+---
+
+<iframe src="STAT Final Paper .pdf" width="100%" height="600px">
+
+This browser does not support PDFs. Please download the PDF to view it: <a href="STAT Final Paper .pdf">Download PDF</a>.
+
+</iframe>
