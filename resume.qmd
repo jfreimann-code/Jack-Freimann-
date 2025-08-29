@@ -50,7 +50,7 @@ title: "Resume"
   <p class="experience-title">Experience</p>
   <p class="details"><strong>Congruex | </strong> Boulder, CO</p>
   <p class="details">Financial Analyst Intern</p>
-  <p class="details">May 2025 - Present</p>
+  <p class="details">May 2025 - August 2025</p>
 </div>
 
   <p class="details"><strong>Ira Brenner & Associates, CPA. | </strong> Greenwood Village, CO</p>
