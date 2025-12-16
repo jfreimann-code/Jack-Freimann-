@@ -36,7 +36,23 @@ Financial Accounting Research Project.
 
 ---
 
+### Economics
+
+#### Do Small Bank Failures Reduce Local Mortgage Lending and Household Access to Credit?
+Econometrics Final Paper.  
+
+[Explore more on the effect of a failed bank →](project6.qmd){target="_blank"}
+
+
+#### Spain's Persistent Unemployment in a Growing Economy
+Intermediate Macroeconomics Final Paper.  
+
+[Explore more on Spain's unemployment issue →](project7.qmd){target="_blank"}
+
+---
+
 ### Statistics
+
 
 #### Effect of Phenotypic Plant Growth Characteristic on Seed Yield in Soybeans
 Stat 155 Final Project.  
