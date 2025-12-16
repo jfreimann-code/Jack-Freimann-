@@ -10,7 +10,7 @@ Welcome to my personal website that I created by using Quarto in Rstudio. My nam
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](Profile.jpeg)
+![](Profile1.jpeg)
 </div>
 
 <div>
