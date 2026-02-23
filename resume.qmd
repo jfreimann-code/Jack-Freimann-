@@ -79,7 +79,7 @@ title: "Resume"
   <p class="details"><strong>Macalester Men's Soccer </strong> </p>
   <ul class="details">
   <li>CSC Academic All-District Honors (Fall 2024)</li>
-  <li>MIAC Academic All Conference (Fall 2024)</li>
+  <li>MIAC Academic All Conference (Fall 2024, Fall 2025)</li>
 </ul>
   
 </div>
